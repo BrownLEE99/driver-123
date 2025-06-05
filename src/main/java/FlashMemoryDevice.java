@@ -9,3 +9,4 @@ public interface FlashMemoryDevice {
     void write(long address, byte data);
 
 }
+
